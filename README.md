@@ -18,4 +18,4 @@ print("Your Shortened URL is: " + short_url)
 ```
 
 ## Code. 
-![Code](https://tinyurl.com/284m29g9?raw=true) 
+![Code](https://github.com/NowshadRuhan/Short-URL-Using-Python/blob/main/short-photo.png?raw=true) 
